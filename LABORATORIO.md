@@ -1,16 +1,18 @@
 # PRÁCTICA No. 1	LEYES DE KIRCHHOFF
 
-1. OBJETIVO DE LA PRÁCTICA
+**1. OBJETIVO DE LA PRÁCTICA**
+
 - Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
 
-2. MARCO TEORICO
+**2. MARCO TEORICO**
+
 - Leyes de Kirchhoff: Es un de los métodos ampliamente utilizados en el análisis de circuitos eléctricos de voltaje y corriente, puesto que con ellas se puede determinar el valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes de Kirchhoff se enuncian a continuación:
 - Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo.
 - Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la misma.
 - Voltaje: Fuerza que ordena el movimiento del flujo de electrones. Es medida en (V) voltios en honor a Alessandro Volta.
 - Corriente: Es la velocidad de la carga respecto al tiempo, y su unidad de medida es en (A) amperios.
 
-3. MATERIAL O EQUIPO
+**3. MATERIAL O EQUIPO
 - Fuente de Voltaje de C.D.: Dispositivo que a partir de la tensión de red pueden proporcionar una señal de tensión continúa para alimentar al circuito.
 - Multímetros Digitales: Es una herramienta que es usada para medir valores eléctricos, principalmente tensión (voltios), corriente (amperios) y resistencia (ohmios).
 - Resistores: Componente electrónico diseñado para introducir una resistencia eléctrica determinada entre dos puntos de un circuito eléctrico.
@@ -24,11 +26,11 @@
 
 - Protoboard: Es una placa de pruebas en los que se pueden insertar elementos electrónicos y cables con los que se arman circuitos sin la necesidad de soldar ninguno de los componentes
 
-4. PROCEDIMIENTO
+**4. PROCEDIMIENTO
 
 1)Armar el circuito que se muestra en la figura 1.1 en Thinkercad.
 
-2)Medir el voltaje y corriente en cada uno de los elementos del circuito. 
+2)Medir el voltaje y corriente en cada uno de los elementos del circuito
 
 Voltaje Total
 
@@ -43,8 +45,6 @@ Voltaje en R4
 Voltaje en R5
 
 Intensidad total
-
-
  
 Intensidad total
 
@@ -72,10 +72,10 @@ Intensidad en R5
 
 9)Calcular errores de las mediciones y comentar los resultados.
 
-5. VIDEO
+**5. VIDEO
 
 
-6. CONCLUSIONES
+**6. CONCLUSIONES
 
 •	Se consiguió demostrar las dos leyes de Kirchhoff tanto la de voltajes como la de corrientes.
 
